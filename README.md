@@ -1,7 +1,10 @@
-# Hi there, I’m Iqra! 👋
+<h1 align="center">Hi there, I’m Iqra! 👋</h1>
 
-Welcome to my GitHub!  
-I'm a **Frontend Developer** specializing in **WordPress** (and much more), passionate about creating beautiful, functional digital experiences—and building the next wave of intelligent tools with Generative AI.
+<p align="center">
+  Welcome to my GitHub!  
+  <br>
+  I'm a <strong>Frontend Developer</strong> specializing in <strong>WordPress</strong> (and much more), passionate about creating beautiful, functional digital experiences—and building the next wave of intelligent tools with Generative AI.
+</p>
 
 ---
 
@@ -15,57 +18,73 @@ I'm a **Frontend Developer** specializing in **WordPress** (and much more), pass
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML · CSS · Tailwind · Bootstrap · Next.js · TypeScript
-- **Backend:** Python · Flask (learning!) · Laravel (exploring!)
-- **CMS:** WordPress Store Creation and Setup 
-- **Other:** AI integrations, Chrome Extensions
+### 💻 Languages & Tools
+
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <!-- CMS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
+  <!-- Extras -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Chrome Extension Dev" width="40" height="40"/>
+</p>
 
 ---
 
 ## 🌟 Projects
 
-- **Toolkit UI + Backend**: Custom system for seamless workflow  
-- **Toolzie (Chrome Extension):** Integrates my toolkit for quick access  
-- **Custom GPTs + AI integrations:** Building smart digital assistants  
-- **Client Projects:** Bespoke WordPress websites & e-commerce  
-- _Always tinkering with something new!_
-
----
-
-## 💡 What Drives Me
-
-> “I’m passionate about crafting standout digital experiences, blending technology with creativity, and mastering AI to build tools that help businesses and creatives alike.”
+- 🚀 **Toolkit UI + Backend**: Custom system for seamless workflow  
+- 🧩 **Toolzie (Chrome Extension)**: Integrates my toolkit for quick access  
+- 🤖 **Custom GPTs + AI Integrations**: Smart digital assistants & tools  
+- 🛠 **Client Projects**: Bespoke WordPress websites & e-commerce  
+- 🧪 _Always tinkering with something new!_
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Generative AI  
-- Full-stack web development  
-- Making my own creative tools for the web!
+- 🧠 Advanced Generative AI  
+- 🌐 Full-stack Web Development  
+- 🛠 Making my own creative tools for the web!
 
 ---
 
 ## 🌐 Let’s Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/iqra-saleem25/)  
-- [My CV](https://flowcv.com/resume/rf3o2l0rm0s0)
+- 💼 [LinkedIn](https://www.linkedin.com/in/iqra-saleem25/)  
+- 📄 [My CV](https://flowcv.com/resume/rf3o2l0rm0s0)
 
-*Follow me for dev & AI content, project updates, and more!*
+✨ *Follow me for dev & AI content, project updates, and more!*
 
 ---
 
 ## ✨ Fun Facts & More
 
-- 🐱 Proud cat mom to Marshmallow
-- 🍲 Food enthusiast & small business owner (ask me about my food adventures!)
-- 👩‍💻 Personal development & e-commerce addict
+- 🐱 Proud cat mom to **Marshmallow**  
+- 🍲 Food enthusiast & small business owner  
+- 👩‍💻 Personal development & e-commerce lover  
 - 🌟 Manifestation believer & lifelong learner
 
 ---
 
-> _Energetic | Playful | Professional | Creative_
+<p align="center">
+  <b>Thanks for stopping by! Let’s build something amazing together.</b>  
+  <br>
+  ⭐️ <i>Don’t forget to check out my pinned projects!</i>
+</p>
 
-Thanks for stopping by! Let’s build something amazing together.  
-⭐️ _Don’t forget to check out my pinned projects!_
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iqraasaleem&show_icons=true&theme=tokyonight" alt="Iqra's GitHub stats" />
+</p>
